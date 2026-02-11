@@ -1,0 +1,5 @@
+https://play.google.com/store/apps/details?id=qr.scanner
+https://www.hellotech.com/
+http://rnmark.com/products
+861536030196001
+WIFI:S:SB1Guest;P:12345;T:WEP;;
