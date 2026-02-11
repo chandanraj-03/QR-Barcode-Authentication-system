@@ -60,7 +60,3 @@ A comprehensive Python-based desktop application for authenticating, logging, an
 - **Camera not detected**: Ensure your webcam is connected and not being used by another application.
 - **Import Errors**: Make sure all dependencies are installed via `pip`.
 - **Sound issues**: This app uses `winsound`, which is available only on Windows.
-
-## License
-
-This project is open-source and available for educational and personal use.
